@@ -1,0 +1,5 @@
+Installations
+
+    pip install Flask-MySQLdb
+    pip install pyyaml
+    pip install flask_bootstrap
